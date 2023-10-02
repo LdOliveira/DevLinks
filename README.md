@@ -5,7 +5,7 @@
 Projeto discover Rocketseat - linketree Luciano de Oliveira.
 
 <p align="center">
-  <img alt="capa do projeto" src=".github/bg-desktop.jpg" width="100%">
+  <img alt="capa do projeto" src=".github/preview.jpg" width="100%">
 </p>
 
 ## ✨ Tecnologia
